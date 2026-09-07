@@ -1,13 +1,16 @@
 
+
+
+
 body {
 
-    display: flex;
+    
 }
 
 img {
 
     width: 300px;
-    height: px;
+   
     padding: 30px;
 
 
@@ -15,7 +18,8 @@ img {
 .one {
 
     
-    background-color: rgb(49, 49, 75);
+    background-color: rgb(113, 113, 154);
+    padding-bottom: 50px;
 
 
 }
@@ -23,7 +27,7 @@ img {
 .content1 {
 
     display: flex;
-    margin-bottom: 100px;
+    
 }
 
 .header {
@@ -70,16 +74,99 @@ h2 {
     
 }
 
-p {
+.p1 {
 
-    margin-bottom: 280px;
+    padding-bottom: 200px;
 }
 
 .signup {
 
-    background-color: blue;
+    background-color: rgb(21, 21, 232);
+    color: aliceblue;
     padding: 10px;
+    display: flex;
+    max-width: 80px;
+    max-height: 30px;
+    display: flex;
+    align-items: center;
     font-weight: bold;
     border-radius: 12px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.two {
+
+background-color: rgb(236, 233, 212);
+
+
+}
+
+
+.three {
+
+background-color: rgb(188, 195, 201);
+padding: 50px;
+
+
+}
+
+
+.four {
+
+
+    background-color: aliceblue;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.header2 {
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 20px;
+font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+}
+
+.content2 {
+
+    display: flex;
+  padding: 50px;
+}
+
+.quote {
+
+    display: flex;
+
+
+}
+
+
+.CTA {
+
+    display: flex;
+    padding-right: 50px;
+
+}
+
+
+.call {
+
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+.signupend {
+
+font-size: 15px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
